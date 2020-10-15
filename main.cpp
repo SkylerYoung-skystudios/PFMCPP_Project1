@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:       alarmClock
-//  action 1:   the alarmClock ticks
-alarmClock.tick();
-//  action 2:   the alarmClock rings
-alarmClock.ring();
-//  action 3:   the alarmClock vibrates
-alarmClock.vibrate();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  2)
-//  Noun:       scissor
-//  action 1:   the scissor cuts
-scissor.cut();
-//  action 2:   the scissor opens
-scissor.open();
-//  action 3:   the scissor glides
-scissor.glide();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  3)
-//  Noun:       snow
-//  action 1:   the snow falls
-snow.fall();
-//  action 2:   the snow melts
-snow.melt();
-//  action 3:   the snow hardens
-snow.harden();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  4)
-//  Noun:       bird
-//  action 1:   the bird flies
-bird.fly();
-//  action 2:   the bird sleeps
-bird.sleep();
-//  action 3:   the bird lays eggs
-bird.layEgg();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  5)
-//  Noun:       milk
-//  action 1:   the milk spoils
-milk.spoil();
-//  action 2:   the milk spills
-milk.spill();
-//  action 3:   the milk churns
-milk.churn();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  6)
-//  Noun:       tree
-//  action 1:   the tree falls
-tree.fall();
-//  action 2:   the tree shakes
-tree.shake();
-//  action 3:   the tree drops fruit
-tree.dropFruit();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  7)
-//  Noun:       string
-//  action 1:   the string ties
-string.tie();
-//  action 2:   the string stretches
-string.stretch();
-//  action 3:   the string breaks
-string.break();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  8)
-//  Noun:       tooth
-//  action 1:   the tooth aches
-tooth.ache();
-//  action 2:   the tooth chips
-tooth.chip();
-//  action 3:   the tooth falls out
- tooth.fallOut();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  9)
-//  Noun:       ball
-//  action 1:   the balll bounces
-ball.bounce();
-//  action 2:   the ball pops
-ball.pop();
-//  action 3:   the ball rolls
-ball.roll();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 //  10)
-//  Noun:       metal
-//  action 1:   the metal rusts
-metal.rust();
-//  action 2:   the metal bends
-metal.bend();
-//  action 3:   the metal cools
-metal.cool();
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
+ 
 
 
 #endif
