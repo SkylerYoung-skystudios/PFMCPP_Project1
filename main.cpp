@@ -108,13 +108,13 @@ string.stretch();
 //  action 3:   the string rips
 string.rip();
 //  8)
-//  Noun:       tooth
-//  action 1:   the tooth aches
-tooth.ache();
-//  action 2:   the tooth chips
-tooth.chip();
-//  action 3:   the tooth falls out
- tooth.fallOut();
+//  Noun:       mailBox
+//  action 1:   the mailBox is almost full
+mailBox.almostFull();
+//  action 2:   the mailBox is awaiting mail
+mailBox.awaitingMail();
+//  action 3:   the mailbox contains outgoing mail 
+mailBox.containsOutgoingMail();
 //  9)
 //  Noun:       ball
 //  action 1:   the balll bounces
