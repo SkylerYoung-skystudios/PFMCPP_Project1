@@ -105,8 +105,8 @@ tree.dropFruit();
 string.tie();
 //  action 2:   the string stretches
 string.stretch();
-//  action 3:   the string breaks
-string.break();
+//  action 3:   the string rips
+string.rip();
 //  8)
 //  Noun:       tooth
 //  action 1:   the tooth aches
